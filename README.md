@@ -1,4 +1,4 @@
-ci_image
-========
+My own codeignitor resize and crop helper 
 
-Image Resize Library for Codeignitor
+followme on twitter 
+@faraqsa
